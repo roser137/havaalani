@@ -8,5 +8,5 @@ Havaalanı Simulasyonu
 Nesneye yönelik programlamanın temellerini hem kavramsal hem de görsel anlamda incelemeye çalıştığımız örnek bir uygulama. Soyut sınıflar, arayüzler, kalıtım ve çok biçimlilikle ilgili bir çok örneği içinde barındırıyor. 
 
 Son halini indirmek için tıklayın:
-!![DOWNLOAD](https://github.com/roser137/havaalani/archive/master.zip)
+[DOWNLOAD](https://github.com/roser137/havaalani/archive/master.zip)
 
