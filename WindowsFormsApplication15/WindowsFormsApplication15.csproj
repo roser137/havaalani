@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{45E274EF-7173-4EB1-9DDF-930D88609036}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsFormsApplication15</RootNamespace>
+    <AssemblyName>WindowsFormsApplication15</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilet.cs" />
+    <Compile Include="CheckInPersoneli.cs" />
+    <Compile Include="HangarPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HangarPictureBox.Designer.cs">
+      <DependentUpon>HangarPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HavaalaniForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HavaalaniForm.Designer.cs">
+      <DependentUpon>HavaalaniForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GisePersoneli.cs" />
+    <Compile Include="Hangar.cs" />
+    <Compile Include="Havaalani.cs" />
+    <Compile Include="HavaDurumu.cs" />
+    <Compile Include="Kisi.cs" />
+    <Compile Include="KisiTipi.cs" />
+    <Compile Include="Kule.cs" />
+    <Compile Include="KulePersoneli.cs" />
+    <Compile Include="Personel.cs" />
+    <Compile Include="Pilot.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Simulasyon.cs" />
+    <Compile Include="Ucak.cs" />
+    <Compile Include="Ucus.cs" />
+    <Compile Include="UcusButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UcusButton.Designer.cs">
+      <DependentUpon>UcusButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcusDurumu.cs" />
+    <Compile Include="UcusTipi.cs" />
+    <Compile Include="Yolcu.cs" />
+    <EmbeddedResource Include="HavaalaniForm.resx">
+      <DependentUpon>HavaalaniForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UcusButton.resx">
+      <DependentUpon>UcusButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gisepersoneli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eleman2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eleman5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eleman4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eleman3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eleman1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giseci.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hangar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hangar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hande.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kizan.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

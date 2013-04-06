@@ -1,0 +1,21 @@
+c:\users\rrrnb\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+c:\users\rrrnb\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+c:\users\rrrnb\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Properties.Resources.resources
+c:\users\rrrnb\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+c:\users\rrrnb\documents\visual studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+C:\Users\rrrnb\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.HavaalaniForm.resources
+C:\Users\rrrnb\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.UcusButton.resources
+C:\Users\rrrnb\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.csprojResolveAssemblyReference.cache
+C:\Users\rrrnb\Documents\Visual Studio 2010\Projects\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.csproj.GenerateResource.Cache
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.exe
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\bin\Debug\WindowsFormsApplication15.pdb
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.HavaalaniForm.resources
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.Properties.Resources.resources
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.UcusButton.resources
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KING\Desktop\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KING\Desktop\proje nesne\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.exe
+C:\Users\KING\Desktop\proje nesne\WindowsFormsApplication15\WindowsFormsApplication15\obj\x86\Debug\WindowsFormsApplication15.pdb
