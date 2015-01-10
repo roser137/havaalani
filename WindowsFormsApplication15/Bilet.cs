@@ -11,7 +11,7 @@ namespace WindowsFormsApplication15
         public int BiletNo;
         public Yolcu yolcu;
         public Ucus ucus;
-
+        //test
         public Bilet() {
             rnd = new Random();
         }
